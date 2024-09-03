@@ -12,7 +12,8 @@ This is a C++ application for managing **Wi-Fi** and **Bluetooth** connections o
 - Modify SSID/Password: Change SSID and/or password for saved networks.
 - Search for Available Networks: Search for nearby Wi-Fi networks.
 - Save Wi-Fi Networks: Save networks to a file or during program runtime.
-- **Bluetooth Control**:
+
+**Bluetooth Control**:
 - Display Bluetooth Status: View Bluetooth status (on/off).
 - Turn Bluetooth On/Off: Enable or disable Bluetooth.
 - Connect to Bluetooth Devices: Scan for Bluetooth devices, pair with them, and connect.
