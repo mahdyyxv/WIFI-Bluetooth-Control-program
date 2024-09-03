@@ -2,7 +2,7 @@
 This is a C++ application for managing **Wi-Fi** and **Bluetooth** connections on Linux systems using the **nmcli** and **bluetoothctl** commands. The program provides a user-friendly interface through which you can turn Wi-Fi and Bluetooth on or off, connect to available networks, manage saved networks, and pair or connect to Bluetooth devices.
 
 ## Features
-- **Wi-Fi Control**:
+**Wi-Fi Control**:
 - Display Wi-Fi Status: View current Wi-Fi status (on/off).
 - Connect to Wi-Fi:
 - Turn Wi-Fi On/Off: Enable or disable Wi-Fi.
